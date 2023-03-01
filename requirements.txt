@@ -1,6 +1,7 @@
 click
 colorama
 Flask
+gunicorn
 itsdangerous
 Jinja2
 MarkupSafe
